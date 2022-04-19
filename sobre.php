@@ -20,8 +20,8 @@ session_start();
             <img id="img" src="images\icon_landingpage.png"  alt="" width="3%" height="8%">
             <nav class="cabecalho-menu" >
                 <a href="index.php" class="cabecalho-menu-item">Início</a>
-                <a href="sobre.php" class="cabecalho-menu-item">Sobre o projeto</a>
                 <a href="inscrever.php" class="cabecalho-menu-item">Inscrições</a>
+                <a href="sobre.php" class="cabecalho-menu-item">Sobre o projeto</a>
                 <a href="sair.php" class="cabecalho-menu-item" name="select" value="select" >Sair</a>
             
             </nav>
